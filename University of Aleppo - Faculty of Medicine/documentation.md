@@ -14,7 +14,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Licen
 # Instructions
 References should be listed in alphabetical order by surname of their respective authors, followed by the:
 
- 1. authors' name initials **[terminated with a period]**
+ 1. authors' name initials (multiple authors separated by a comma) **[terminated with a period]**
  2. year of publication **[terminated with a period]**
  3. source's title **[underlined and terminated with a period]**
  4. container's title **[italicized and terminated with a period]**
