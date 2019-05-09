@@ -31,11 +31,11 @@ References should be listed in alphabetical order by surname of their respective
 > Surname Initials., Surname Initials. YEAR. <ins>Source's Title</ins>. <em>Container's Title</em>. Publisher's Name. Printing Edition. Country of Publication. Volume Number(Issue Number):Page Numbers. DOI/ISBN/URL: XXXXX
 
 # Examples
-## 1. Adding a Journal Article
+## 1. Citing a Journal Article
 > Conti C. B., Cavalcoli F., Fraquelli M., Conte D., Massironi S. 2016. <ins>Ultrasound Elastographic Techniques in Focal Liver Lesions</ins>. <em>World Journal of Gastroenterology</em>. 22(9):2647–2656. DOI: 10.3748/wjg.v22.i9.2647
 
-## 2. Adding a Book
+## 2. Citing a Book
 > Rumack C. M., Leṿin D. 2017. <ins>Diagnostic Ultrasound</ins>. Elsevier. 5th ed. Philadelphia, United States. ISBN: 9780323529631
 
-## 3. Adding a Website
+## 3. Citing a Website
 > Bell D. J., Gaillard F. 2008. <ins>Hepatocellular Carcinoma</ins>. URL: https://radiopaedia.org/articles/hepatocellular-carcinoma
