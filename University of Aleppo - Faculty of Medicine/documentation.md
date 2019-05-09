@@ -28,7 +28,7 @@ References should be listed in alphabetical order by surname of their respective
  12. International Standard Book Number or ISBN if the reference is a book **[terminated with a period]**
  13. Uniform Resource Allocator or URL if the reference is a website **[terminated with a period]**
 
-> Surname Initials., Surname Initials. YEAR. <ins>Source's Title</ins>. <em>Container's Title</em>. Publisher's Name. Printing Edition. Country of Publication. Volume Number(Issue Number):Page Numbers. DOI/ISBN/URL: XXXXX
+> Surname Initials., Surname Initials. Year of Publication. <ins>Source's Title</ins>. <em>Container's Title</em>. Publisher's Name. Printing Edition. Country of Publication. Volume Number(Issue Number):Page Numbers. DOI/ISBN/URL: XXXXX
 
 # Examples
 ## 1. Citing a Journal Article
