@@ -5,6 +5,7 @@
     <title-short>UAFM</title-short>
     <id>http://www.zotero.org/styles/university-of-aleppo-faculty-of-medicine</id>
     <link rel="self" href="http://www.zotero.org/styles/university-of-aleppo-faculty-of-medicine"/>
+    <link rel="documentation" href="https://github.com/firasuke/Citation-Style-Language-Styles/blob/master/University%20of%20Aleppo%20-%20Faculty%20of%20Medicine/documentation.md"/>
     <author>
       <name>Firas Khalil Khana</name>
       <email>firasuke@gmail.com</email>
@@ -31,10 +32,10 @@
     <text variable="publisher"/>
   </macro>
   <macro name="edition">
-    <number vertical-align="baseline" suffix=" ed. " variable="edition" form="ordinal"/>
+    <number suffix=" ed. " variable="edition" form="ordinal"/>
   </macro>
   <macro name="publisher-place">
-    <text variable="publisher-place" suffix=". "/>
+    <text variable="publisher-place"/>
   </macro>
   <macro name="page">
     <text variable="page"/>
@@ -46,7 +47,7 @@
     <text variable="issue"/>
   </macro>
   <macro name="container-title">
-    <text variable="container-title" suffix=". "/>
+    <text variable="container-title"/>
   </macro>
   <macro name="url">
     <text variable="URL"/>
@@ -62,7 +63,7 @@
       <key variable="citation-number"/>
     </sort>
     <layout vertical-align="sup" delimiter="، " prefix="[" suffix="]">
-      <text variable="citation-number" vertical-align="sup"/>
+      <text variable="citation-number"/>
     </layout>
   </citation>
   <bibliography second-field-align="flush">
@@ -70,14 +71,14 @@
       <key variable="author"/>
     </sort>
     <layout>
-      <text variable="citation-number" vertical-align="baseline" prefix="[" suffix="] "/>
+      <text variable="citation-number" prefix="[" suffix="] "/>
       <text macro="author" text-decoration="none" suffix=". "/>
       <text macro="date" suffix=". "/>
       <text macro="title" text-decoration="underline" suffix=". "/>
-      <text macro="container-title" font-style="italic"/>
+      <text macro="container-title" font-style="italic" suffix=". "/>
       <text macro="publisher" suffix=". "/>
       <text macro="edition"/>
-      <text macro="publisher-place"/>
+      <text macro="publisher-place" suffix=". "/>
       <text macro="volume"/>
       <text macro="issue" prefix="(" suffix="):"/>
       <text macro="page" suffix=". "/>
