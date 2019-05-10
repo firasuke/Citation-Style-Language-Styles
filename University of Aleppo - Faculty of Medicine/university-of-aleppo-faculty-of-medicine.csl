@@ -72,7 +72,7 @@
     </sort>
     <layout>
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <group delimiter=". ">
+      <group delimiter=". " suffix=". ">
         <text macro="author" text-decoration="none"/>
         <text macro="date"/>
         <text macro="title" text-decoration="underline"/>
